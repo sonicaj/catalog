@@ -1,0 +1,1 @@
+## TrueNAS compliant catalog
